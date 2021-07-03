@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://images2.alphacoders.com/718/718914.jpg);
+    background-position: center;
+    background-size: cover;
+    border: thick double black;
+}
+h1 {
+    text-align: center;
+    color: darkslateblue;
+}
+h2 {
+   text-align: center;
+}
+img {
+    margin-right: auto;
+    margin-left: auto;
+}

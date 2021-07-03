@@ -15,4 +15,22 @@ div.thirdDiv {
     height: 600px; 
     width: 500px; 
     padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+body {
+    background-image: url(https://img-s1.onedio.com/id-5942725c916693c20ec5eb94/rev-0/raw/s-89440abe6b404941c7577483105db1b9a8fffcc0.gif);
+    background-position: center;
+    background-size: cover;
+}
+div.DivClass {
+    text-align: center;
+}
+ul.imagen {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
 }
